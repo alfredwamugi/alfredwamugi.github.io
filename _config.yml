@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Alfred Wamugi
 email: alfredthedev@gmail.com
-description: Dive deep into the world of tech with a passionate developer. Discover expert insights, practical tutorials, and in-depth reviews on the latest software and trends. Stay ahead of the curve and level up your coding skills today.
+description: Dive deep into the world of tech. Discover expert insights, practical tutorials, and in-depth reviews on the latest software and trends. Stay ahead of the curve and level up your coding skills today.
 twitter_username: alfredwamugi
 github_username: alfredwamugi
 minimal_mistakes_skin: contrast
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Who am I?"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I'm a passionate software developer and tech enthusiast dedicated to crafting innovative solutions. With a keen eye for detail and a love for problem-solving, I'm always exploring new technologies and pushing the boundaries of what's possible. Join me on my journey as I share insights, tutorials, and reviews from the world of software development."
+  bio    : "I'm a software developer and tech enthusiast dedicated to crafting innovative solutions. With a keen eye for detail and a love for problem-solving, I'm always exploring new technologies and pushing the boundaries of what's possible. Join me on my journey as I share insights, tutorials, and reviews from the world of software development."
   links:
     - label: "Website"
       icon: "fa-solid fa-link"
