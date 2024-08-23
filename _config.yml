@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title: Alfred Wamugi
 email: alfredthedev@gmail.com
-description: Software Developer & Tech Enthusiast. Explore insightful articles, coding tutorials, and software reviews. Discover the latest trends in technology and gain valuable knowledge from a passionate developer.
+description: Dive deep into the world of tech with a passionate developer. Discover expert insights, practical tutorials, and in-depth reviews on the latest software and trends. Stay ahead of the curve and level up your coding skills today.
 twitter_username: alfredwamugi
 github_username: alfredwamugi
 minimal_mistakes_skin: contrast
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alfred Wamugi"
+  name   : "Who am I?"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Software Developer & Reviewer. Explore. Create. Inspire. Passionate about tech, building innovative solutions, and sharing insights."
+  bio    : "I'm a passionate software developer and tech enthusiast dedicated to crafting innovative solutions. With a keen eye for detail and a love for problem-solving, I'm always exploring new technologies and pushing the boundaries of what's possible. Join me on my journey as I share insights, tutorials, and reviews from the world of software development."
   links:
     - label: "Website"
       icon: "fa fa-link"
@@ -70,7 +70,7 @@ author:
       icon: "fa fa-github"
       url: "https://github.com/alfredwamugi"
     - label: "Instagram"
-      icon: "fa fa-instagram"
+      icon: "fa-brands fa-instagram"
       url: "https://instagram.com/wamugialfred"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fa fa-github"
       url: "https://github.com/alfredwamugi"
     - label: "Instagram"
-      icon: "fa fa-instagram"
+      icon: "fa-brands fa-square-instagram"
       url: "https://instagram.com/wamugialfred"
 
 defaults:
